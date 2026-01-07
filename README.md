@@ -19,4 +19,4 @@
 
 
 #### Activity 3
-[Link to google docs](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?tab=t.0)
+[Link to MG1 breakdown document](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?tab=t.0)
