@@ -20,3 +20,11 @@
 
 #### Activity 3
 [Link to MG1 breakdown document](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?tab=t.0)
+
+
+
+## Week 2
+#### Activity 1
+![IMG_0199](https://github.com/user-attachments/assets/72bd6f83-9716-4403-a125-7e43fbaca5d0)
+
+#### Activity 2
