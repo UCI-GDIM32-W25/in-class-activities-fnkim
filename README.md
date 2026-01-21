@@ -30,3 +30,9 @@
 #### Activity 2
 - I added the sprites for the ground and penguin as well as the components needed for movement. I also added a jump functionality to the penguin, making sure to check whether the penguin was grounded using collisions to let it jump again.
 - [Link to commit](https://github.com/UCI-GDIM32-W25/mg2-fnkim/commit/1478a57c63e44907068b6efef3db87be06e2e44f)
+
+## Week 3
+#### Activity 0
+Buddy: Rebecca Feng
+
+
