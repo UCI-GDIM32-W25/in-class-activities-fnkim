@@ -36,3 +36,5 @@
 Buddy: Rebecca Feng
 
 
+#### Activity 3
+<img width="500" height="300" alt="Screenshot 2026-01-20 180854" src="https://github.com/user-attachments/assets/49986856-fabd-41d8-9dd5-9b53d9569510" />
