@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+<img width="500" height="300" alt="Screenshot 2026-01-27 181137" src="https://github.com/user-attachments/assets/7b0c764e-c46b-45e8-91ec-8297a54363f9" /># GDIM32 In Class Activities
 ## Week 1
 #### Activity 1
 - Ask for help from your peers
@@ -38,3 +38,15 @@ Buddy: Rebecca Feng
 
 #### Activity 3
 <img width="500" height="300" alt="Screenshot 2026-01-20 180854" src="https://github.com/user-attachments/assets/49986856-fabd-41d8-9dd5-9b53d9569510" />
+
+## Week 4
+#### Activity 0
+Rebecca Feng
+
+#### Activity 1
+When multiple Locator objects are added to the Scene, they disappear until only one is left when the game is run. This is because in the code, it checks for if there is an Instance of the locator and there are multiple, it destroys it.
+
+#### Activity 2
+<img width="500" height="300" alt="Screenshot 2026-01-27 184239" src="https://github.com/user-attachments/assets/bbcc9375-cd56-480b-8908-7107d99635f2" />
+
+#### Activity 3
