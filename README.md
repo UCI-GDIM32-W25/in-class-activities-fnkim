@@ -50,3 +50,5 @@ When multiple Locator objects are added to the Scene, they disappear until only 
 <img width="500" height="300" alt="Screenshot 2026-01-27 184239" src="https://github.com/user-attachments/assets/bbcc9375-cd56-480b-8908-7107d99635f2" />
 
 #### Activity 3
+[Link to Commit to HW](https://github.com/fnkim/HW4/commit/aadda961c47dcb32a05e3b22729dd58d27a27cd7)
+I added the sprites and made the input controls to make the bird flap, as well as making the pipe spawning feature.
