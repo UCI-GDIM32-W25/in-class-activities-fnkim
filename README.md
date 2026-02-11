@@ -79,11 +79,11 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 - Writing involves collaborating with other departments—design, art, animation, audio, engineering, studio leadership
 - Freelance writers are independent contractors
 - In-house writers are full-time studio employees and have more influence
-
+-----------
 
 - Pre-Production:
 - High-level narrative summary, setting and characters, detailed story outlines, narrative delivery methods, and sorting out databases
-
+-----------
 
 - Production:
 - Cinematic and mission scripts which involves collaborating with leadership and level design; rewriting is cheap
@@ -93,20 +93,20 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 - Worldbuilding and lore: Not player-facing, this is set up so that writers know how to write things that players see
 - UI/UX Text: Narrative checks over UI stuff, Eg Tooltips
 - Casting and recording: This is when writing stops being cheap. Something that gets recorded can’t be redone as easily as just rewriting lines. Writers should not be voiceover directors, as having a fresh look can be really helpful
-
+-----------
 
 - Post production to ship:
 - Marketing Materials like website copy and trailers
 - Nondialogue text revisions
 - Localization: translation notes
-
+-----------
 
 - Tools:
 -  Google docs/MZ office
 -  Excel/Sheets
 -  Narrative implementation: Visual scripting, branching narrative (important for games) like arcweave and twine
 -  Scriptwriting tools
-
+-----------
 
 - Breaking into the industry
 - Starting in another department (especially In-House QA team
@@ -115,12 +115,12 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 - Look for opportunities to help the narrative team
 - Build your portfolio, make a game alone or with others, and participate in game jams
 - Networking: IGDA/community meetings, discord servers
-
+-----------
 
 - Game writing advice:
 - Showcase that you're broad in your talent but lean into your strengths
 - Understand story structure and how it works so you know how to break it for game writing
-
+-----------
 
 - Resources
 - Books on craft: Video Game Storytelling (Skolnick), The Game NArrative Toolbox (Heussner)
