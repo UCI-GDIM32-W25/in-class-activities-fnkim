@@ -81,11 +81,11 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 - In-house writers are full-time studio employees and have more influence
 -----------
 
-- Pre-Production:
+Pre-Production:
 - High-level narrative summary, setting and characters, detailed story outlines, narrative delivery methods, and sorting out databases
 -----------
 
-- Production:
+Production:
 - Cinematic and mission scripts which involves collaborating with leadership and level design; rewriting is cheap
 - Dialogue barks
 - Ambient dialogue
@@ -95,20 +95,20 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 - Casting and recording: This is when writing stops being cheap. Something that gets recorded can’t be redone as easily as just rewriting lines. Writers should not be voiceover directors, as having a fresh look can be really helpful
 -----------
 
-- Post production to ship:
+Post production to ship:
 - Marketing Materials like website copy and trailers
 - Nondialogue text revisions
 - Localization: translation notes
 -----------
 
-- Tools:
+Tools:
 -  Google docs/MZ office
 -  Excel/Sheets
 -  Narrative implementation: Visual scripting, branching narrative (important for games) like arcweave and twine
 -  Scriptwriting tools
 -----------
 
-- Breaking into the industry
+Breaking into the industry
 - Starting in another department (especially In-House QA team
 - Provide feedback, don't be an asshole
 - Internships
@@ -117,10 +117,84 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 - Networking: IGDA/community meetings, discord servers
 -----------
 
-- Game writing advice:
+Game writing advice:
 - Showcase that you're broad in your talent but lean into your strengths
 - Understand story structure and how it works so you know how to break it for game writing
 -----------
 
-- Resources
+Resources
 - Books on craft: Video Game Storytelling (Skolnick), The Game NArrative Toolbox (Heussner)
+
+
+#### GDW Talk 2, Technical Art: Stephen Coan
+- Background: Technical artist at Secret Door
+--------
+
+What is Technical Art?
+- Well-paying and needed role
+- Solve problems relating to the implementation of art in a game engine
+- Build art pipelines
+- MAke the artistic process simpler, faster, more accessible, or possible in the first place
+- Glue between Art and Engineering
+- Making games is a technical effort not matter what kind work you're doing. Tech Artists focus on making sure technical problems don't get in the way of making art
+----------
+Sub-disciplines
+- Character Tech Art
+- Rigging and skinning
+- Animation tools
+- Taking 3d models and making them animatable
+- Abstracting complex implementation into something simple for the animator
+---
+Tools Tech Art
+- Asset Management
+- Standards and conventions
+- Art import.Export
+- Workflow simplification
+- Automation
+- Engine hookup
+- Works with artists and designers, workflow needs to be made to help them collaborate
+---
+Runtime Tech Art
+- Authoring shaders, collaborating with artists and art director
+- Destruction simulation
+- Procedural Generation
+- Optimization
+- Determines what performance budgets are based on target hardware and enforcing these budgets
+---
+- Tech artists are usually either character TAs or Tools + Runtime TAs
+- Every project has different problems for Tech Artists to solve
+- Tech Art work crosses into different disciplines like technical design and gameplay engineering. Tech artists fill gaps, so they kind of know broadly things about game development
+-------
+Examples of Technical Art
+- Scene Footprints analyzer
+- Environment memory was a bottleneck to shipping on Switch
+- Built a tool to break down the most expensive assets in a scene and warn artists if they've built a scene too large to ship on Switch
+
+
+FX Data Hookup Tooling
+- FX behavior needed to be able to be connected to gameplay for FX artists
+- Did not want hard-coded behavior
+- Deal with FX and designers to determine what gameplay hooks would need to be exposed
+- Extended existing design tools for creating spells with additional data for FX behavior
+
+
+Chromas
+- Changes to character rendering
+- New shader logic for tinting base appearnace
+- Worked with Art Director to determine visual requirements
+- Determined additional textures and parameters required to achieve the effect
+- Optimization
+  
+--------
+How to become a technical artist
+- Strong communication skills
+- Ability to break complex tasks down into more approachable steps
+- Excitement about learning new things
+- Passion for helping others achieve their passions
+- Don't be afraid of approaching a problem you don't know the solution for
+
+
+Learn:
+- Shader editing in Unity or Unreal
+- Scripting for 3D modeling tools (Maya/Blender/Houdini)
+- Basics of runtime optimization
