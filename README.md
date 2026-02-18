@@ -70,7 +70,7 @@ In the second demo, the ItemW5Demo class represents the Model because it is a Sc
 
 
 #### Activity 4
-- Attendance: Rebecca Feng, Landon Her, Nansong Sun
+- Attendance: Rebecca Feng, Landon Her, Nansong Sun, Frances Kim (Me)
 - [Link to proposal](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?tab=t.0)
 
 
@@ -196,8 +196,30 @@ How to become a technical artist
 - Passion for helping others achieve their passions
 - Don't be afraid of approaching a problem you don't know the solution for
 
+## Week 7
+#### Activity 1
+- Raycasting: firing an arrow from a point into the game scene to check what it hits
+- Needs 2 vectors: origin and direction
+- Use Gizmos in order to see things like raycasts and figure out the game scene
+- Find slope using a raycast by pointing a raycast down
+- You can make your character aggro an enemy by comparing raycasts
 
-Learn:
-- Shader editing in Unity or Unreal
+
+#### Activity 2
+Rebecca Feng, Landon Her, Nansong Sun, Frances Kim (Me)
+
+
+#### Activity 3
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/095ff259-5929-4e86-b74a-15db5fdfb0bd" />
+
+#### Activity 4
+https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?gid=0#gid=0
+
+
+#### Activity 5
+https://github.com/lindenreid/GDIM32-Final/commit/ebedf4445e8d025732bb71842b39f8a6da6e1349
+In this commit, I imported the 3D model I did of the bushes and extracted the materials to apply the toon shader.
+
+
 - Scripting for 3D modeling tools (Maya/Blender/Houdini)
 - Basics of runtime optimization
