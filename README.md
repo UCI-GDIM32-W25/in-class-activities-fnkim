@@ -223,3 +223,31 @@ In this commit, I imported the 3D model I did of the bushes and extracted the ma
 
 - Scripting for 3D modeling tools (Maya/Blender/Houdini)
 - Basics of runtime optimization
+
+
+## Week 8
+#### Activity 1
+Rebecca Feng, Landon Her, Frances Kim (me)
+
+
+#### Activity 2
+Playtest notes:
+- confusion due to the game being incomplete; playtesters tried doing stuff that wasn't implemented yet. For example, they tried to catch the worm but couldn't.
+- Good responses to the cutscene
+- Collecting is satisfying? Playtesters kept trying to collect every object
+- Sprinting ability would be nice
+- Adjust border to be more intuitive. Some of the colliders are in odd places
+- Change the UI to make it match better (also due to game being incomplete)
+- Change the beginning cutscene to progress through button rather than clicking since mouse clicks are not utilized anywhere else
+
+
+#### Activity 3
+Updated Task list
+Currently, we have a lot of incomplete tasks, making the game not complete. However, the structures for things like the dialogue and quest system are all set up, meaning it will be easy to implement the rest of the mechanics. I think our project scope is doable.
+
+
+#### Activity 4
+[Link to commit](https://github.com/fnkim/Nerds-Cluster-Final/commit/846f9e9350a97482eceae8149644cd3d224c63df)
+
+
+In this commit, I added character portraits for the dialogue and added dialogue lines.
